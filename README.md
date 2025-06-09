@@ -41,42 +41,7 @@ An intelligent, user-friendly web application that automatically generates flash
 ---
 
 ## 📦 Installation
-
-1. Clone this repo:
+Clone this repo:
    git clone https://github.com/MuthamizhSelvan01/AI-Powered-Flashcard-and-Quiz-Generator-from-Study-Materials).git
    cd ai-flashcard-quiz-generator
-Install dependencies:
-
-
-pip install -r requirements.txt
-Set your Gemini API key:
-
-Create a .env file:
-
-Load the value
-
-Run the app:
-
-
-streamlit run app.py
-📁 Project Structure
-├── app.py                  # Main Streamlit app
-├── updated.py              # Core logic for PDF processing and generation
-├── database.db             # SQLite database file
-├── utils/                  # Utility functions (optional)
-├── .env                    # API Key (do not share)
-└── README.md               # Project documentation
-🧪 Example Use Case
-Upload a 30-page science textbook PDF, and within seconds, receive 25+ flashcards and an interactive quiz. View your performance on a dashboard and continue learning where you left off.
-
-📈 Future Improvements
-Add support for DOCX and TXT formats
-
-Implement spaced repetition for flashcards
-
-Export flashcards as PDF
-
-Add voice-enabled flashcard reading
-
-Real-time collaboration features
 
