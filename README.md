@@ -42,6 +42,7 @@ An intelligent, user-friendly web application that automatically generates flash
 
 ## 📦 Installation
 Clone this repo:
-   git clone https://github.com/MuthamizhSelvan01/AI-Powered-Flashcard-and-Quiz-Generator-from-Study-Materials).git
+   git clone https://github.com/MuthamizhSelvan01/AI-Powered-Flashcard-and-Quiz-Generator-from-Study-Materials.git
+   
    cd ai-flashcard-quiz-generator
 
